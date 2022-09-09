@@ -1,0 +1,25 @@
+.fruit-selector {
+    border:1px solid black;
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+
+}
+
+.fruit-selector .button-wrapper {
+    width:80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.fruit-selector button {
+    padding:10px;
+    border-radius: 5px;
+    border:0px;
+}

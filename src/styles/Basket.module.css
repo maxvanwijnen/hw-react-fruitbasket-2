@@ -1,0 +1,9 @@
+.basket {
+    display: flex;
+    flex-direction: column;
+    width:500px;
+}
+
+.basket .reset-button {
+    padding:10px;
+}
